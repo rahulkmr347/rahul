@@ -2,32 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94d12e25-f410-49c1-9333-c5f9114a4d0d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/NeosoftloginApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserJobDetailsController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserLoginController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserRegistrationController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/core/entity/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/core/entity/UserDetails.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/core/reposatory/UserJobDetailsReposatory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/core/reposatory/UserReposatory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/ErrorDto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/LoginRequestDto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/UserJobDetailsRequestDto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/UserRegistrationRequestDto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/UserRegistrationResponseDto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/exceptionHandler/GlobalExceptionHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/exceptionHandler/UnAuthorizedException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/services/UserDetailsService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/services/UserRegistrationService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/utils/RegexFormats.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/neosoft/neosoftlogin/NeosoftloginApplicationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/NeosoftloginApplication.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/NeosoftloginApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/controller/UserJobDetailsController.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/controller/UserJobDetailsController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/controller/UserLoginController.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/controller/UserLoginController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/controller/UserRegistrationController.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/controller/UserRegistrationController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/core/entity/User.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/core/entity/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/core/entity/UserDetails.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/core/entity/UserDetails.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/core/reposatory/UserJobDetailsReposatory.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/core/reposatory/UserJobDetailsReposatory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/core/reposatory/UserReposatory.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/core/reposatory/UserReposatory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/ErrorDto.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/ErrorDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/LoginRequestDto.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/LoginRequestDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/UserJobDetailsRequestDto.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/UserJobDetailsRequestDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/UserRegistrationRequestDto.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/UserRegistrationRequestDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/UserRegistrationResponseDto.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/dto/UserRegistrationResponseDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/exceptionHandler/GlobalExceptionHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/exceptionHandler/GlobalExceptionHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/exceptionHandler/UnAuthorizedException.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/exceptionHandler/UnAuthorizedException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/services/UserDetailsService.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/services/UserDetailsService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/services/UserRegistrationService.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/services/UserRegistrationService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/utils/RegexFormats.class" afterPath="$PROJECT_DIR$/target/classes/com/neosoft/neosoftlogin/utils/RegexFormats.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/neosoftlogin-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/neosoftlogin-0.0.1-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/neosoftlogin-0.0.1-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/target/neosoftlogin-0.0.1-SNAPSHOT.jar.original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/neosoft/neosoftlogin/NeosoftloginApplicationTests.class" afterPath="$PROJECT_DIR$/target/test-classes/com/neosoft/neosoftlogin/NeosoftloginApplicationTests.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.neosoft.neosoftlogin.NeosoftloginApplicationTests.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.neosoft.neosoftlogin.NeosoftloginApplicationTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.neosoft.neosoftlogin.NeosoftloginApplicationTests.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.neosoft.neosoftlogin.NeosoftloginApplicationTests.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,22 +48,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserDetailsService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/services/UserDetailsService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" column="65" lean-forward="false" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserRegistrationController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UserRegistrationController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserRegistrationController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
+            <state relative-caret-position="318">
               <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -76,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/core/entity/User.java">
+      <file leaf-file-name="UserLoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserLoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="22">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ErrorDto.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ErrorDto.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/ErrorDto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="156">
+              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/UserRegistrationResponseDto.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/UserRegistrationRequestDto.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/exceptionHandler/UnAuthorizedException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/ErrorDto.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/NeosoftloginApplication.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/exceptionHandler/GlobalExceptionHandler.java" />
@@ -208,6 +193,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/services/UserRegistrationService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/utils/RegexFormats.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/ErrorDto.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserRegistrationController.java" />
       </list>
     </option>
@@ -557,27 +543,29 @@
       <workItem from="1668489329852" duration="21750000" />
       <workItem from="1668661690373" duration="40000" />
       <workItem from="1669189529781" duration="5377000" />
-      <workItem from="1669201696405" duration="909000" />
+      <workItem from="1669201696405" duration="2859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50425000" />
+    <option name="totallyTimeSpent" value="52375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="736" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41833332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24833333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.435" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -594,7 +582,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41833332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -716,13 +703,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.12/spring-core-5.3.12.jar!/org/springframework/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -999,16 +979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserLoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/utils/RegexFormats.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61">
@@ -1022,18 +992,6 @@
           <caret line="13" column="65" lean-forward="false" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserRegistrationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1948#1949#0" expanded="true" />
-            <element signature="e#1998#1999#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1103,10 +1061,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/dto/ErrorDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="156">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neosoft/neosoftlogin/controller/UserRegistrationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1948#1949#0" expanded="true" />
+            <element signature="e#1998#1999#0" expanded="true" />
           </folding>
         </state>
       </provider>
