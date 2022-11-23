@@ -45,6 +45,6 @@ public class UserRegistrationController {
 
     @RequestMapping(method = RequestMethod.HEAD, value = "head/{id}" )
     public ResponseEntity<String> head(){
-        return ResponseEntity.ok("header");
+        return ResponseEntity.ok("okay");
     }
 }
