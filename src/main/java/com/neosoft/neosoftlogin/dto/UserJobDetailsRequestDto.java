@@ -9,7 +9,6 @@ import java.util.Date;
 @Getter @Setter @ToString
 public class UserJobDetailsRequestDto {
 
-    private Long userId;
     private String companyName;
     private Date joiningDate;
     private Date exitDate;

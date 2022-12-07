@@ -1,6 +1,7 @@
 package com.neosoft.neosoftlogin.controller;
 
 
+import com.neosoft.neosoftlogin.core.entity.User;
 import com.neosoft.neosoftlogin.dto.UserRegistrationRequestDto;
 import com.neosoft.neosoftlogin.dto.UserRegistrationResponseDto;
 import com.neosoft.neosoftlogin.services.UserRegistrationService;
@@ -9,9 +10,11 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.constraints.NotNull;
+import java.util.List;
 
 @RestController
 @RequestMapping("/registration")
+@CrossOrigin(origins = "http://localhost:4200/")
 public class UserRegistrationController {
 
     @Autowired
@@ -43,8 +46,24 @@ public class UserRegistrationController {
 
     }
 
-    @RequestMapping(method = RequestMethod.HEAD, value = "head/{id}" )
-    public ResponseEntity<String> head(){
-        return ResponseEntity.ok("header");
+    @GetMapping(value = "all/user")
+    public List<User> getAllUser(){
+        return userRegistrationService.getAllUser(true);
+    }
+
+    @GetMapping(value = "all/user/getDeleted")
+    public List<User> getAllDeletedUser(){
+        return userRegistrationService.getAllUser(false);
+    }
+
+    @GetMapping(value = "find/{userId}")
+    public User getUserById(@PathVariable(name = "userId") Long userId){
+        return userRegistrationService.getUserById(userId);
+    }
+
+    @GetMapping(value = "user/activate/{userId}")
+    public void activateUser(@PathVariable(name = "userId") Long userId){
+        userRegistrationService.activateUser(userId);
+
     }
 }

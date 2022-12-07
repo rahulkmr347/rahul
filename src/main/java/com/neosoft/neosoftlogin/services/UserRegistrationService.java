@@ -18,6 +18,7 @@ import javax.persistence.EntityNotFoundException;
 import javax.validation.Valid;
 import javax.validation.ValidationException;
 import javax.validation.constraints.NotNull;
+import java.util.List;
 import java.util.Objects;
 
 @Service
@@ -124,6 +125,15 @@ public class UserRegistrationService {
         userReposatory.save(user);
     }
 
+    public void activateUser(Long userId) {
+        User user = userReposatory.findByUserId(userId);
+        if(user == null){
+            throw new EntityNotFoundException("User is not Available for the user id :" + userId);
+        }
+        user.setActiveStatus(true);
+        userReposatory.save(user);
+    }
+
     public User loginUser(LoginRequestDto loginRequestDto) {
         if(StringUtils.isBlank(loginRequestDto.getMobileNo())  && StringUtils.isBlank(loginRequestDto.getEmailId())){
             throw new ValidationException("invalid request for login");
@@ -139,5 +149,13 @@ public class UserRegistrationService {
         }
         return user;
 
+    }
+
+    public List<User> getAllUser(boolean flag) {
+       return userReposatory.findByActiveStatus(flag);
+    }
+
+    public User getUserById(Long userId) {
+        return userReposatory.findByUserId(userId);
     }
 }

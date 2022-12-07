@@ -7,8 +7,6 @@ z
 Jsrc/main/java/com/neosoft/neosoftlogin/dto/UserRegistrationRequestDto.java,2\9\29441f19c944b8a76a547178a1af82bbfc2edd71
 {
 Ksrc/main/java/com/neosoft/neosoftlogin/dto/UserRegistrationResponseDto.java,d\5\d5a0992d319bf5399d7ba11b6fe2c970fb3bd181
-s
-Csrc/main/java/com/neosoft/neosoftlogin/core/entity/UserDetails.java,4\5\45f82b93e39dff9f66137992d1f4fc3dc2f7ef7c
 z
 Jsrc/main/java/com/neosoft/neosoftlogin/core/reposatory/UserReposatory.java,d\d\dd748e4d3d50de8908680a7b9b330845f5aafd99
 Ñ
@@ -31,13 +29,8 @@ U
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 8
 mvnw.cmd,1\f\1f1763f358c257ea3515417352b82b0165647ad1
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 n
 >src/main/java/com/neosoft/neosoftlogin/utils/RegexFormats.java,9\f\9fec4cee7486e739a25eae401abbb64e68fee3f0
-w
-Gsrc/main/java/com/neosoft/neosoftlogin/services/UserDetailsService.java,2\c\2c966380fc47475ce615483c38d37bbc48f426b2
 Å
 Qsrc/main/java/com/neosoft/neosoftlogin/controller/UserRegistrationController.java,0\2\026d371b2d5ea62e32081b6692f0cc057c7096e2
 l
@@ -50,3 +43,7 @@ Rsrc/main/java/com/neosoft/neosoftlogin/exceptionHandler/UnAuthorizedException.j
 Ssrc/main/java/com/neosoft/neosoftlogin/exceptionHandler/GlobalExceptionHandler.java,6\6\66c5e465712b32e8b9e97cc76d92846f6c7ff4ff
 h
 8src/main/java/com/neosoft/neosoftlogin/dto/ErrorDto.java,3\4\34029c488ab6e894db7975725d491c39c9a0c4c6
+z
+Jsrc/main/java/com/neosoft/neosoftlogin/services/UserJobDetailsService.java,e\a\eae5139477cd910037cfce18f2a33bac01044e9c
+v
+Fsrc/main/java/com/neosoft/neosoftlogin/core/entity/UserJobDetails.java,5\f\5f3fe709d9c5f58cdd2999e0b783f3466ebb6288

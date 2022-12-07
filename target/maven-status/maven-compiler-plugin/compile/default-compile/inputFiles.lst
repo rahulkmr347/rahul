@@ -1,5 +1,5 @@
-F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\core\entity\UserDetails.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\dto\UserRegistrationResponseDto.java
+F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\services\UserJobDetailsService.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\dto\UserJobDetailsRequestDto.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\controller\UserLoginController.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\exceptionHandler\GlobalExceptionHandler.java
@@ -7,10 +7,11 @@ F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\utils\RegexForma
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\core\entity\User.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\dto\ErrorDto.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\controller\UserRegistrationController.java
+F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\core\entity\UserJobDetails.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\dto\LoginRequestDto.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\dto\UserRegistrationRequestDto.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\core\reposatory\UserJobDetailsReposatory.java
-F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\services\UserDetailsService.java
+F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\dto\UserJobDetailsResponseDto.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\NeosoftloginApplication.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\services\UserRegistrationService.java
 F:\projects\neosoftlogin\src\main\java\com\neosoft\neosoftlogin\controller\UserJobDetailsController.java

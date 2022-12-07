@@ -1,2 +1,8 @@
 
-gsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(£Œ­Àýÿÿÿÿ
+‹squid:S1192Y"hDefine a constant instead of duplicating this literal "User is not Available for the user id :" 3 times.(à™•êþÿÿÿÿ8õú®›Í0
+squid:S4165""bRemove this useless assignment; "user" already holds the assigned value along all execution paths.(­“ó-8”¥ÔïË0
+—squid:S4165r"yRemove this useless assignment; "userRegistrationResponseDto" already holds the assigned value along all execution paths.(£úøÊ8”¥ÔïË0
+—squid:S4165f"yRemove this useless assignment; "userRegistrationResponseDto" already holds the assigned value along all execution paths.(£úøÊ8”¥ÔïË0
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(£Œ­Àýÿÿÿÿ
+Usquid:S2589m"7Remove this expression which always evaluates to "true"(ßœìÝ8”¥ÔïË0
+squid:S4165["bRemove this useless assignment; "user" already holds the assigned value along all execution paths.(­“ó-8”¥ÔïË0

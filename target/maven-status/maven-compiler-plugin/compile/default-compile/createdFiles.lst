@@ -1,8 +1,9 @@
+com\neosoft\neosoftlogin\core\entity\UserJobDetails.class
 com\neosoft\neosoftlogin\exceptionHandler\UnAuthorizedException.class
 com\neosoft\neosoftlogin\controller\UserJobDetailsController.class
-com\neosoft\neosoftlogin\services\UserDetailsService.class
 com\neosoft\neosoftlogin\dto\UserJobDetailsRequestDto.class
 com\neosoft\neosoftlogin\exceptionHandler\GlobalExceptionHandler.class
+com\neosoft\neosoftlogin\services\UserJobDetailsService.class
 com\neosoft\neosoftlogin\controller\UserRegistrationController.class
 com\neosoft\neosoftlogin\services\UserRegistrationService.class
 com\neosoft\neosoftlogin\dto\LoginRequestDto.class
@@ -13,6 +14,6 @@ com\neosoft\neosoftlogin\NeosoftloginApplication.class
 com\neosoft\neosoftlogin\dto\ErrorDto.class
 com\neosoft\neosoftlogin\core\reposatory\UserJobDetailsReposatory.class
 com\neosoft\neosoftlogin\core\reposatory\UserReposatory.class
-com\neosoft\neosoftlogin\core\entity\UserDetails.class
 com\neosoft\neosoftlogin\core\entity\User.class
 com\neosoft\neosoftlogin\utils\RegexFormats.class
+com\neosoft\neosoftlogin\dto\UserJobDetailsResponseDto.class
